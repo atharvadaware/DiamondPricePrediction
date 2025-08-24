@@ -22,5 +22,4 @@ setup(
     author_email='atharvadaware2001@gmail.com',
     install_requires=get_requirements('requirements.txt'),
     packages=find_packages()
-
 )
